@@ -8,7 +8,7 @@ The project features a sleek dark-themed sidebar, icon-based navigation links, s
 <li>Responsive sidebar navigation menu</li>
 <li>Clean and modern UI design</li>
 <li>Font Awesome icons integration</li>
-<li></li>Social media links section
+<li>Social media links section</li>
 <li>Background image support</li>
 <li>Smooth hover effects and transitions</li>
 <li>Pure HTML and CSS implementation</li>
